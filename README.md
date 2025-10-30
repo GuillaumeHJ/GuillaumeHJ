@@ -12,13 +12,13 @@ I’m preparing a transition toward a **PhD in Machine Learning applied to Biolo
 ---
 
 ## 🎯 Research Interests  
+- **Transformers Foundational Models for Polygon Representation Learning**
 - **Graph Neural Networks (GNNs)**  
 - **Deep Reinforcement Learning (DRL)**  
 - **Applications of ML to Chemistry**  
 - Target domains I’m transitioning toward:  
   ➝ **Gene regulatory networks (GRNs)**  
   ➝ **Computational chemistry & molecular prediction**  
-  ➝ **Systems biology & control**
 
 ---
 
@@ -51,29 +51,18 @@ This experience fuels my motivation to move toward **ML in chemistry and biology
 
 ---
 
-## 🧪 Current Biology-Focused Project  
-**GNN + RL for Gene Regulatory Network (GRN) Control**  
-Inspired by this 2025 paper: https://arxiv.org/abs/2505.02712  
-**Goals:**  
-- ✅ Reproduce the paper’s experiments  
-- 🔧 Explore improved GNN architectures for GRNs  
-- 🎮 Benchmark RL frameworks (PPO, SAC, DQN, CORL)  
-Aim: build a portfolio project aligned with PhD research in **ML for biology**.
-
----
 
 ## 🛠️ Skills & Tools  
-- **Python**, PyTorch, PyTorch Geometric  
+- Python, PyTorch, PyTorch Geometric, **Transformers**, Sklearn 
 - **RL frameworks** (stable-baselines3, gymnasium)  
-- Cloud & compute: **GCP, Colab, GPU training**  
+- Cloud & compute: **GCP, Docker, Colab, GPU training**  
 - Reproducibility: notebooks, reports, requirements files, experiment tracking  
-- Data handling, Docker basics, Git best practices
 
 ---
 
 ## 🌱 What I’m Looking For  
 - PhD opportunities in **ML for biology / computational systems biology / molecular ML**  
-- Collaborations involving **GNNs, RL, or molecular/biological Machine Learning**  
+- Collaborations involving **Transformers, GNNs, RL, or molecular/biological Machine Learning**  
 - Research teams bridging ML with life sciences
 
 ---
@@ -86,4 +75,4 @@ Aim: build a portfolio project aligned with PhD research in **ML for biology**.
 ---
 
 ## 📝 Quick One-Liner (About Me)  
-*“MVA (ENS) graduate and Research Engineer at Valeo. Experience in multimodal retrieval, medical image segmentation, RL for biological simulations, and deep learning source separation. Now transitioning to PhD-level research applying GNNs and RL to gene regulatory networks and molecular systems.”*
+*“MVA (ENS) graduate and Research Engineer at Valeo. Experience in transformers fundational models, GNNs, multimodal retrieval, medical image segmentation, RL for biological simulations, and deep learning source separation. Now transitioning to PhD-level research applying GNNs and RL to gene regulatory networks and molecular systems.”*
