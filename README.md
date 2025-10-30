@@ -1,12 +1,12 @@
 # 👋 Hi — I’m Guillaume Henon-Just  
-**@GuillaumeHJ** — Machine Learning engineer & researcher (MVA, ENS & École des Ponts ParisTech)  
+**@GuillaumeHJ** — Research Engineer (Valeo), recent graduate (MVA, ENS & École des Ponts ParisTech)  
 I’m preparing a transition toward a **PhD in Machine Learning applied to Biology**. My background spans research-oriented projects in CV, RL, semi-supervised learning, industrial research at Valeo, and a **5-month research stay at OIST (Japan)** where I worked on **deep learning–based blind source separation for music** using architectures inspired by computer vision. I’m especially motivated to apply **GNNs and RL** to biological and chemical systems.
 
 ---
 
 ## 🧭 Current Status  
 - 🎓 Graduated from **MVA (Mathematics, Vision & Learning)** at ENS and from **École des Ponts ParisTech (Institut Polytechnique de Paris)**  
-- 💼 **Research Engineer at Valeo** — developing a Deep RL pipeline for **2D irregular polygon nesting** using **GNNs + DRL + CORL**  
+- 💼 **Research Engineer at Valeo** — developing a Deep RL pipeline for **2D irregular polygon nesting** using **Transformers + GNNs + CORL**  
 - 🔭 Preparing PhD applications in **ML for biology**
 
 ---
