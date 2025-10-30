@@ -22,7 +22,7 @@ I’m preparing a transition toward a **PhD in Machine Learning applied to Biolo
 
 ---
 
-## 📂 Selected Projects
+## 📂 Selected Academic Projects
 
 ### 🔹 1. CoVR — Composed Video/Image Retrieval  
 **Repo:** https://github.com/GuillaumeHJ/CoVR  
